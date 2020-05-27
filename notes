@@ -4,5 +4,8 @@ javac Test.java
 2. test
 java Test
 
-3. push to repo
-4. deploy as an app
+3. build the new image
+
+4. push to repo
+
+5. deploy as an app
