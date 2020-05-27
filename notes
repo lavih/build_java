@@ -1,0 +1,4 @@
+1. build compiler container
+2. test
+3. push to repo
+4. deploy as an app
