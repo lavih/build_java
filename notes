@@ -1,3 +1,6 @@
+maven:3.5.2-jdk-7
+curl 127.0.0.1:8080/LiquorStoreApp/
+
 1. build compiler container
 javac Test.java
 
